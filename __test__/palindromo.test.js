@@ -5,5 +5,5 @@ test('Comprobar reverse 1', () => {
 })
 
 test('Comprobar reverse 2', () => {
-    expect(palindromo("hola mundo")).toBe("odnum aloh");
+    expect(palindromo("hola familia")).toBe("ailimaf aloh");
 })
